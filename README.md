@@ -1,0 +1,2 @@
+# 14.3_Js_Tek_Cift_Sayi_Ayirma
+14.3_Js_Tek_Cift_Sayi_Ayirma
